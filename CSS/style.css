@@ -1,11 +1,17 @@
 body {
-        <img src="PHOTO.jpg" width="200" alt="Тут моглы бы быть ваша реклама">
+        background: url("../img/fon2.jpg");
+        background-size: cover;
         background-color: #efefef;
         font-family: Arial;
         line-height: 1.3;
-    }
+        }
+
+.card {
+       box-shadow: 0 2px 2px;
+        }
+
 
 .title {
-    color: #8795EA;
-    }
+        color: #8795EA;
+        }
 
